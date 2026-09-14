@@ -1,6 +1,5 @@
 #自用
 DOMAIN-SUFFIX,clmclm.com
-DOMAIN-SUFFIX,pmvhaven.com
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,groq.com
@@ -10,5 +9,4 @@ DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,elysiver.h-e.top
 DOMAIN-SUFFIX,abrdns.com
 DOMAIN-SUFFIX,idcflare.com
-DOMAIN-KEYWORD,pmvhaven
 DOMAIN-KEYWORD,docker
